@@ -1,0 +1,22 @@
+public class Creature {
+    private int size;
+    private int age;
+
+    public static void main(String[] args) {
+        Random r = new Random();
+        int temp = r.ints(1, 1, 100);
+        System.out.println(temp):
+    
+    }
+}
+
+// private class Chances {
+//     private int chance = 0;
+
+//     private void updateChances{
+//         int temp = (chance + 1)
+//     }
+
+// }
+
+
